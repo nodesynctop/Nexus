@@ -26,4 +26,5 @@ curl https://cli.nexus.xyz | sh
 ```
 ## Step 5: Go back to https://beta.nexus.xyz, Go to My profile to see if the CLI node shows up, wait about 5 minutes
 
+![nuxus](https://github.com/user-attachments/assets/0dc80382-d95b-42fe-af29-2a214cb92ad2)
 `Note:` Go to My Profile, fill in your email, save, and confirm email
